@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="NN_FP.h" path="/home/mayor/PINN/NN_FP.h"/>
+    <originFiles name="NN_FP.c" path="/home/mayor/PINN/NN_FP.c"/>
+  </source>
+  <testbench>
+    <originFiles name="NN_FP_tb.c" path="/home/mayor/PINN/NN_FP_tb.c"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>
